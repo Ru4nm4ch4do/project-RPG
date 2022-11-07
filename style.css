@@ -19,7 +19,7 @@
     color: rgb(255, 255, 255);
     }
 
-    li {
+    li a {
     text-transform: uppercase;
     color: rgb(255, 255, 255);
     font-weight: bold;
