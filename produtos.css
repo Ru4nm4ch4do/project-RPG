@@ -49,7 +49,8 @@ nav a {
 
 .itens {
     width: 1200px;
-    margin: 0 auto;
+    margin-left: -600px;
+    left: 50%;
 }
 
 .itens li {
