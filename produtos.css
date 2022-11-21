@@ -46,3 +46,8 @@ nav a {
     font-size: 20px;
     text-decoration: none;
 }
+
+.itens {
+    width: 1200px;
+    margin: 0 auto;
+}
