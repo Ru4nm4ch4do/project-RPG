@@ -48,11 +48,12 @@ nav a {
 }
 
 .itens {
-    width: 1050px;
+    width: 1058px;
 }
 
 .itens li {
     display: inline-block;
+    text-align: center;
 }
 
 .item {
