@@ -17,6 +17,10 @@ h1 {
     display: inline;
 }
 
+h2 {
+    font-style: oblique;
+}
+
 #logo {
     display: inline;
     width: 250px;
